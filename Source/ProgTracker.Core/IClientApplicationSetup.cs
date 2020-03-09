@@ -1,6 +1,4 @@
-﻿using System;
-
-/// <summary>
+﻿/// <summary>
 /// The core functionality shared between all parts of the ProgTracker application.
 /// </summary>
 namespace ProgTracker.Core
